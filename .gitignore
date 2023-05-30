@@ -1,0 +1,26 @@
+# OSX
+.DS_Store
+
+# Generic files/folders
+Covid19 Info Icon.psd
+Screenshots/
+
+# Xcode
+
+## User settings
+xcuserdata/
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+.build/
+
+# CocoaPods
+*.xcworkspace
+
